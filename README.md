@@ -1,0 +1,2 @@
+# Technique-Practice
+In this report, I've compiled information about cyclist-related incidents in Austin. The city of Austin has received numerous complaints from cyclists alleging that the city is not doing enough to protect them from motor vehicles. As a result, I'm going to look over these findings to see if the data confirms these incidents through prediction. ![image](https://user-images.githubusercontent.com/102192534/180052577-7dc5d5fe-bdf0-4cb4-96f1-6562a73357e6.png)
